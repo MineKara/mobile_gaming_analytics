@@ -1,6 +1,10 @@
 
 # Mobile Gaming Analytics Project
-Author: Mine Kara
+**Author: Mine Kara**
+
+<p align="center" width="100%">
+    <img width="60%" src="https://i.imghippo.com/files/es2726HE.jpg">
+</p>
 
 ## Project Overview
 This repository contains the analysis and code for the Game Analytics Bootcamp Project, focusing on calculating key metrics and uncovering insights within gaming data. The project includes retention calculations, revenue analysis, player behavior predictions, and anomaly detection, providing a comprehensive view of player engagement and monetization.
